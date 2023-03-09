@@ -1,1 +1,1 @@
-0x01-shell_permissions 6
+0x01-shell_permissions 7
